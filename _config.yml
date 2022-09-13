@@ -3,10 +3,9 @@ logo: "/ProfileImage.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  Frontend Developer
   <br><br>
-  <br><br>
   <a href="mailto:bhosaleanjali575@gmail.com">bhosaleanjali575@gmail.com </a>
-  <br>
+  <br><br>
   <a href="https://www.linkedin.com/in/anjali-bhosale-18826518b/">LinkedIn Profile</a>
-  <br>
+  <br><br>
   <a href="https://github.com/anjalibhosale96/">Gihub</a> 
 theme: jekyll-theme-minimal

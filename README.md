@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a frontend developer with 1 year of experience. I have hands on experience working with web frameworks and technologies. I have extensively worked on react and javascript.
+I am a frontend developer with 1+ years of experience. I have hands on experience working with web frameworks and technologies. I have extensively worked on react and javascript.
 
 I have desire to deep dive into user facing experience and build systems to help support them.
 
@@ -38,8 +38,7 @@ GPA 8.17
 
 
 ### INTERESTS
-Apart from being a web developer, I do work with NGO which helps promoting professional education among aspiring girls in India by providing scholarships and guidance
-
+Apart from being a web developer, I do work with NGO which helps promoting professional education among aspiring girls in India by providing scholarships and guidance.
 I have Trekkers Community, we go on treks to witness the natural beauty of earth. Also i love doing yoga everyday.
 ---
 
