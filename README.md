@@ -39,6 +39,8 @@ GPA 8.17
 
 ### INTERESTS
 Apart from being a web developer, I do work with NGO which helps promoting professional education among aspiring girls in India by providing scholarships and guidance.
+
 I have Trekkers Community, we go on treks to witness the natural beauty of earth. Also i love doing yoga everyday.
+
 ---
 
