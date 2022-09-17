@@ -26,7 +26,7 @@ Worked on frontend for a delivery-based web applications, designed and deployed 
 
 Leverage JavaScript and React in conjunction with AEM. Additionally performed unit tests and developed a CI/CD integrated project.
 
-Tech Stack- JavaScript, React, HTML5, CSS3, Bootstrap, NodeJS, MongoDB
+Tech Stack- HTML5, CSS3, Bootstrap, JavaScript, React, NodeJS, MongoDB
 
 ---
 
